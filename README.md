@@ -10,7 +10,7 @@ After greeting the user, if there is no data from the previews sessions on teh d
 - Search for an animal
 - Calculate statistics
 - Print the Knowledge Tree.    
-If your locale is Esperanto, the program will ask and answer in a language you understand.    
+The game is multilingual. If your locale is Esperanto, the program will ask and answer in a language you understand.    
 Example (note that greater-than symbol is not part of the input and only represents the user input):
 ```
 Good evening!
